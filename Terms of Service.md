@@ -2,7 +2,7 @@
 
 **Last Updated & Effective Date:** April 11, 2026  
 **Applicable App Version:** v1.0.0 and all subsequent versions  
-**Publisher / Data Controller:** JYM Developers  
+**Publisher / Data Controller:** Zymera Studios  
 <!-- **Target Platform:** Android OS (Google Play Store)  -->
 <!--**Geographic Base:** Hyderabad, Telangana, India -->
 
@@ -10,7 +10,7 @@
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using **TicTacXplorers** ("the App"), you agree to be bound by these Terms of Service ("Terms"). The App is developed and published by an individual developer operating under the commercial brand name **JYM Developers** ("we," "us," or "our"). If you do not agree to these Terms, you must uninstall and discontinue use of the App immediately.
+By downloading, installing, or using **TicTacXplorers** ("the App"), you agree to be bound by these Terms of Service ("Terms"). The App is developed and published by an individual developer operating under the commercial brand name **Zymera Studios** ("we," "us," or "our"). If you do not agree to these Terms, you must uninstall and discontinue use of the App immediately.
 
 ## 2. Eligibility
 
@@ -46,13 +46,13 @@ WE DO NOT WARRANT THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, BUG-FREE, SECU
 
 ## 7. LIMITATION OF LIABILITY
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL JYM DEVELOPERS, ITS FOUNDER, AFFILIATES, OR LICENSORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE, OR EXEMPLARY DAMAGES (INCLUDING BUT NOT LIMITED TO LOSS OF DATA, LOSS OF DEVICE FUNCTIONALITY, OR VIRTUAL CURRENCY) ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE APP.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL Zymera Studios, ITS FOUNDER, AFFILIATES, OR LICENSORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE, OR EXEMPLARY DAMAGES (INCLUDING BUT NOT LIMITED TO LOSS OF DATA, LOSS OF DEVICE FUNCTIONALITY, OR VIRTUAL CURRENCY) ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE APP.
 
 **CAP ON LIABILITY:** UNDER NO CIRCUMSTANCES SHALL OUR TOTAL AGGREGATE LIABILITY TO YOU FOR ALL CLAIMS RELATING TO THE APP EXCEED THE TOTAL AMOUNT YOU PAID TO US (IF ANY) THROUGH IN-APP PURCHASES IN THE SIX (6) MONTHS PRIOR TO THE EVENT GIVING RISE TO THE LIABILITY, OR FIFTY US DOLLARS ($50.00 USD), WHICHEVER IS LESS.
 
 ## 8. Indemnification
 
-You agree to indemnify, defend, and hold harmless JYM Developers and its founder from any claims, damages, liabilities, costs, or expenses (including reasonable attorneys' fees) arising out of your use of the App, your violation of these Terms, or your violation of any third-party rights.
+You agree to indemnify, defend, and hold harmless Zymera Studios and its founder from any claims, damages, liabilities, costs, or expenses (including reasonable attorneys' fees) arising out of your use of the App, your violation of these Terms, or your violation of any third-party rights.
 
 ## 9. Governing Law and Jurisdiction
 
@@ -68,6 +68,8 @@ We reserve the right to modify these Terms at any time. We will notify you of si
 
 If you have any questions regarding these Terms, please contact us:
 
-**Brand Name:** JYM Developers  
+**Brand Name:** Zymera Studios  
 **Location:** Hyderabad, Telangana, India  
-**Support Email:** [Insert Your Support Email]
+**Support Email:** Zymerastudios@gmail.com
+
+
