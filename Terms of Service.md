@@ -26,7 +26,7 @@ The App may include virtual currency (such as "Stars" or "XP") and virtual items
 * **No Monetary Value:** Virtual Goods have no real-world monetary value and do not constitute real-world currency or property.
 * **No Cash-Out:** Virtual Goods cannot be sold, traded, transferred, or exchanged for real money, goods, or services outside of the App.
 * **Purchases:** All In-App Purchases are processed strictly through Google Play Billing. You agree to adhere to Google Play's Terms of Service regarding payments.
-* **Refunds:** All sales of Virtual Goods are final. Refunds are subject exclusively to the Google Play Refund Policy and our supplemental [Refund Policy](refund.html).
+* **Refunds:** All sales of Virtual Goods are final. Refunds are subject exclusively to the Google Play Refund Policy and our supplemental [Refund Policy](refund-policy.html).
 
 ## 5. Prohibited Conduct
 
